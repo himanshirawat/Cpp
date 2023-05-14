@@ -1,0 +1,28 @@
+In this Lecture the topics are ---
+a. Switch case 
+b. Functions
+
+In Switch case we cover-
+break,
+continue,
+exit,
+infinte loop concept
+
+In Functions we cover -
+Function body,
+Function Stack,
+Pass by Value
+
+-----List of Programs-----
+
+1. Calculator
+2. Note Count
+3. Prime Number
+4. Even Odd
+5. nCr
+6. Print Counting no.
+7. Pow(a,b)
+8. AP
+9. Fibonnaci Series
+10. Count Total Number of set bits
+11. dummy()  // pass by value concept
